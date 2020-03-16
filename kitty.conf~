@@ -1052,7 +1052,5 @@ font_size 18.0
 
 # }}}
 
-window_padding_width 4
-
 
 include snazzy.conf
